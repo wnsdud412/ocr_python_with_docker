@@ -1,0 +1,8 @@
+numpy<1.17
+opencv_python
+imgaug
+pandas
+tensorflow
+Click
+docker_py==1.10
+scikit_learn

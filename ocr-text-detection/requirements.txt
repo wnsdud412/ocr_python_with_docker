@@ -1,0 +1,6 @@
+numpy<1.17
+matplotlib
+
+tqdm
+pyclipper
+glob2
